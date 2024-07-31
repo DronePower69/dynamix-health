@@ -4,7 +4,7 @@ import { Navbar, Nav } from 'react-bootstrap';
 const NavigationBar = () => {
   return (
     <Navbar bg="dark" variant="dark" expand="lg">
-      <Navbar.Brand href="#home">Dynamix Health Initiative</Navbar.Brand>
+      <Navbar.Brand href="/">Dynamix Health Initiative</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto">
