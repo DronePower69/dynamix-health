@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Accordion, Dropdown } from 'react-bootstrap';
-
+{/*<p style={{marginLeft: 750}}>This is just the basic. We will be tuning it further on.</p>*/}
 const Home = () => {
   return (
     <Container>
@@ -185,6 +185,9 @@ const Home = () => {
       </Accordion>
 
       <br></br>
+
+      
+      {/*<p style={{marginLeft: 750}}>This is just the basic. We will be tuning it further on.</p>*/}
     </Container>
   );
 };

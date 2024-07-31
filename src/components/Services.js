@@ -8,6 +8,7 @@ const Services = () => {
         <Col md={6}>
           <h2>Our Services</h2>
           <p>We offer a range of health services to meet your needs.</p>
+          <p>This is just the basic. We will be tuning it further on.</p>
         </Col>
       </Row>
     </Container>
