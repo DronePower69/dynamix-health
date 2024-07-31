@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamix-health/static/css/main.36ffff30.css",
+    "main.js": "/dynamix-health/static/js/main.3857dcbc.js",
+    "static/js/453.60370481.chunk.js": "/dynamix-health/static/js/453.60370481.chunk.js",
+    "index.html": "/dynamix-health/index.html",
+    "main.36ffff30.css.map": "/dynamix-health/static/css/main.36ffff30.css.map",
+    "main.3857dcbc.js.map": "/dynamix-health/static/js/main.3857dcbc.js.map",
+    "453.60370481.chunk.js.map": "/dynamix-health/static/js/453.60370481.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ffff30.css",
+    "static/js/main.3857dcbc.js"
+  ]
+}
