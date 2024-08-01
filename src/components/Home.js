@@ -12,13 +12,13 @@ const Home = () => {
       </Row>
       <Accordion defaultActiveKey="0">
         <Accordion.Item eventKey="0">
-          <Accordion.Header>What do you understand with the term <b>"Chronic Diseases"</b>??</Accordion.Header>
+          <Accordion.Header>What do you understand with the term "Chronic Diseases"??</Accordion.Header>
           <Accordion.Body>
           A chronic disease is a long-lasting condition that typically progresses slowly and persists over an extended period, often requiring ongoing medical management and lifestyle adjustments to control symptoms and prevent complications.
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
-          <Accordion.Header>How can one recognize&nbsp;<b>the signs</b>&nbsp;and&nbsp;<b>symptoms</b>&nbsp;of a chronic disease?</Accordion.Header>
+          <Accordion.Header>How can one recognize&nbsp;the signs&nbsp;and&nbsp;symptoms&nbsp;of a chronic disease?</Accordion.Header>
           <Accordion.Body>
           Recognizing chronic disease involves observing persistent symptoms like ongoing pain, fatigue, or recurring issues that last for months or longer, prompting consultation with a healthcare provider for diagnosis and management.
           </Accordion.Body>
@@ -27,7 +27,7 @@ const Home = () => {
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="2">
-          <Accordion.Header>How can individuals &nbsp; <b>effectively manage</b> &nbsp; chronic diseases?</Accordion.Header>
+          <Accordion.Header>How can individuals &nbsp;effectively manage&nbsp; chronic diseases?</Accordion.Header>
           <Accordion.Body>
           Managing chronic diseases involves adherence to prescribed medications, lifestyle modifications such as diet and exercise, regular monitoring of symptoms, and frequent consultations with healthcare providers for adjustments and support.
           </Accordion.Body>
